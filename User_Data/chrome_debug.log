@@ -1,0 +1,14 @@
+[91208:91208:0508/150031.166119:WARNING:chrome/browser/signin/account_consistency_mode_manager.cc:72] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[91267:91267:0508/150031.233585:WARNING:sandbox/policy/linux/sandbox_linux.cc:415] InitializeSandbox() called with multiple threads in process gpu-process.
+[91208:91208:0508/150032.023979:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[91208:91208:0508/150035.799400:INFO:CONSOLE:157] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yg/r/aK0NNvUJben.js (157)
+[91267:91267:0508/150040.017257:ERROR:ui/gl/gl_surface_presentation_helper.cc:260] GetVSyncParametersIfAvailable() failed for 1 times!
+[91267:91267:0508/150043.376011:ERROR:ui/gl/gl_surface_presentation_helper.cc:260] GetVSyncParametersIfAvailable() failed for 2 times!
+[91208:91208:0508/150048.686159:INFO:CONSOLE:77] "ErrorUtils caught an error:
+
+Converting to a string will drop content data. Hash="undefined" Translation="{user_name} added {names}" Content="{"key":null,"ref":null,"props":{"contact":{"id":"94722600707@c.us","type":"in","textStatusLastUpdateTime":-1,"syncToAddressbook":false},"showNotifyName":true,"elevatedPushNamesEnabled":true,"onClick":null}}" (type=object,Object)
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yS/r/5S4RufCxTL9.js (77)
+[91267:91267:0508/150048.914896:ERROR:ui/gl/gl_surface_presentation_helper.cc:260] GetVSyncParametersIfAvailable() failed for 3 times!
+[91299:91312:0508/150053.891445:WARNING:net/extras/sqlite/sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[91299:91312:0508/150053.891518:WARNING:net/extras/sqlite/sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
